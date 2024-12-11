@@ -11,4 +11,4 @@ task:
       memory: 20G
 
   Sync_script:
-      - git clone $CONFIG &&cd new &&bash bot.sh
+      - git clone $CONFIG &&cd ek &&bash bot.sh
